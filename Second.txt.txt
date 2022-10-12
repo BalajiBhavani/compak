@@ -1,0 +1,1 @@
+Hii this git commands like git init and push and pull
